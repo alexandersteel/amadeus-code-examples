@@ -1,7 +1,7 @@
 var Amadeus = require("amadeus");
 var amadeus = new Amadeus({
-  clientId: 'YOUR_API_KEY',
-  clientSecret: 'YOUR_API_SECRET'
+  clientId: 'pI7YjB7jHWDWHxPe0uTzx1Af4bMbsPza',
+  clientSecret: 'vp44UpuSeotv1ORT'
 });
 
 // Find the cheapest flights from SYD to BKK
